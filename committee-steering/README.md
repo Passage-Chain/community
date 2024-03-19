@@ -4,13 +4,13 @@ The Steering Committee is a special SIG that periodically evaluates projects, pr
 
 ## Meetings
 
-Steering Committee meetings take place on the second to last Wednesday of each month at 12:00 PM Eastern Time in the [Passage Discord #Council-Stage](https://discord.gg/passage).
+Steering Committee meetings take place on the second to last Wednesday of each month at 12:00 PM Eastern Time in the [Passage Discord](https://discord.gg/passage).
 
 Meetings are public and open for anyone to attend and listen-in.
 
 | Date & Time | Notes | Recording
 | --- | --- | --- |
-| Wednesday, February 21, 2024 @ 12:00 PM ET (Eastern Time) | [Link](meetings/001-2024-02-21.md) | [Link](https://youtu.be/RtPN8W5meyA?si=Xu_jMCcebrALLQle)
+| Wednesday, February 21, 2024 @ 12:00 PM ET | [Link](meetings/001-2024-02-21.md) | [Link](https://youtu.be/RtPN8W5meyA?si=Xu_jMCcebrALLQle)
 
 
 ### Agenda
