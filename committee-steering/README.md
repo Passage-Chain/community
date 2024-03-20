@@ -34,11 +34,11 @@ The Steering Commitee is comprised of members who have familiarity with Passage 
 
 - Anil Kumar, Vitwit
 - Sistla Abhishek, OmniFlix
-- Gaurav, Leap Wallet
+- Leap Wallet
 - Lowell Abbott, NodeFleet
 - Joe Venner, Apello
 - Neville Nguyen, HyperChain Capital
-- ZenChainLabs
+- Primus, ZenChainLabs
 - NacionCrypto
 - Cryptocito
 - Greg Weld, Crypto Lab Tech
