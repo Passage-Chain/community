@@ -13,7 +13,7 @@ Meetings are public and open for anyone to attend and listen-in.
 | Date & Time | Notes | Recording
 | --- | --- | --- |
 | Wednesday, February 21, 2024 @ 12:00 PM ET | [Link](meetings/001-2024-02-21.md) | [Link](https://youtu.be/RtPN8W5meyA?si=Xu_jMCcebrALLQle)
-| Wednesday, March 20, 2024 @ 12:00 PM ET |  | 
+| Wednesday, March 20, 2024 @ 12:00 PM ET |  | [Link](https://youtu.be/gPgacm4hd0U)
 | Wednesday, April 17, 2024 @ 12:00 PM ET |  | 
 | Wednesday, May 22, 2024 @ 12:00 PM ET |  | 
 
