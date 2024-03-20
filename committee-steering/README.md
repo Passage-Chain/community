@@ -10,6 +10,7 @@ Meetings are public and open for anyone to attend and listen-in.
 
 **[Subscribe to the Passage Open Source calendar here](https://calendar.google.com/calendar/u/2?cid=Y19iOTYxYTcwMDkzZTQ5ZTYyNDlhYjkxMGRkODUzZjc0NTBkYmRjY2E3YmY1ODdiNmYzNThlMGQ2Njc0Y2RkYzRkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).**
 
+
 | Date & Time | Notes | Recording
 | --- | --- | --- |
 | Wednesday, February 21, 2024 @ 12:00 PM ET | [Link](meetings/001-2024-02-21.md) | [Link](https://youtu.be/RtPN8W5meyA?si=Xu_jMCcebrALLQle)
