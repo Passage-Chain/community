@@ -1,5 +1,5 @@
 # Passage Indexer - Requirements
-The Passage Steering Committee has identified the following requirements for the Passage Marketplace Indexer.
+The Steering Committee has identified the following requirements for the Passage Indexer.
 
 ## Existing Functionality
 Log CW-721 transactions for:
