@@ -26,8 +26,7 @@ Meetings are public and open for anyone to attend and listen-in.
 
 - Review, discuss, and address community feedback
 - Review and prioritize projects
-- Review any new Github Discussions
-- Open up to questions from participants
+- Open up for questions/discussion from participants
 
 ## Leadership
 
