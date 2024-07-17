@@ -8,7 +8,7 @@ Steering Committee meetings take place on the second to last Wednesday of each m
 
 Meetings are public and open for anyone to attend and listen-in.
 
-**[Subscribe to the Passage Open Source calendar here](https://calendar.google.com/calendar/u/2?cid=Y19iOTYxYTcwMDkzZTQ5ZTYyNDlhYjkxMGRkODUzZjc0NTBkYmRjY2E3YmY1ODdiNmYzNThlMGQ2Njc0Y2RkYzRkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).**
+**[Subscribe to the Passage Open Source calendar here](https://calendar.google.com/calendar/u/3?cid=Y19iOTYxYTcwMDkzZTQ5ZTYyNDlhYjkxMGRkODUzZjc0NTBkYmRjY2E3YmY1ODdiNmYzNThlMGQ2Njc0Y2RkYzRkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).**
 
 
 | Date & Time | Notes | Recording
