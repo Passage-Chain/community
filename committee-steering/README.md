@@ -8,7 +8,7 @@ Steering Committee meetings take place on the second to last Wednesday of each m
 
 Meetings are public and open for anyone to attend and listen-in.
 
-**[Subscribe to the Passage Open Source calendar here](https://calendar.google.com/calendar/u/3?cid=Y19iOTYxYTcwMDkzZTQ5ZTYyNDlhYjkxMGRkODUzZjc0NTBkYmRjY2E3YmY1ODdiNmYzNThlMGQ2Njc0Y2RkYzRkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).**
+**[Subscribe to the Passage Open Source calendar here](https://calendar.google.com/calendar/embed?src=c_b961a70093e49e6249ab910dd853f7450dbdcca7bf587b6f358e0d6674cddc4d%40group.calendar.google.com&ctz=America%2FChicago).**
 
 
 | Date & Time | Notes | Recording
@@ -26,6 +26,7 @@ Meetings are public and open for anyone to attend and listen-in.
 | Wednesday, January 22, 2025 @ 12:00 PM ET |  | 
 | Wednesday, February 19, 2025 @ 12:00 PM ET |  | 
 | Wednesday, March 19, 2025 @ 12:00 PM ET |  | 
+| Wednesday, April 23, 2025 @ 12:00 PM ET |  | 
 
 ### Agenda
 
