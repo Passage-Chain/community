@@ -28,6 +28,8 @@ Meetings are public and open for anyone to attend and listen-in.
 | Wednesday, March 19, 2025 @ 12:00 PM ET |  | 
 | Wednesday, April 23, 2025 @ 12:00 PM ET |  | 
 | Wednesday, May 21, 2025 @ 12:00 PM ET |  | 
+| Wednesday, June 18, 2025 @ 12:00 PM ET |  | 
+| Wednesday, July 23, 2025 @ 12:00 PM ET |  | 
 
 ### Agenda
 
