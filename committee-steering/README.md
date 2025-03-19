@@ -25,7 +25,7 @@ Meetings are public and open for anyone to attend and listen-in.
 | Wednesday, December 18, 2024 @ 12:00 PM ET | [Link](meetings/010-2024-12-18.md) | [Link](https://youtu.be/RHSwJRilNZ8?feature=shared)
 | Wednesday, January 22, 2025 @ 12:00 PM ET | [Link](meetings/011-2025-01-22.md) | [Link](https://youtu.be/8XKmKdGpJzo)
 | Wednesday, February 19, 2025 @ 12:00 PM ET | [Link](meetings/012-2025-02-19.md) | [Link](https://youtu.be/sGTFt81iD58)
-| Wednesday, March 19, 2025 @ 12:00 PM ET | [Link](meetings/013-2025-03-19.md) | 
+| Wednesday, March 19, 2025 @ 12:00 PM ET | [Link](meetings/013-2025-03-19.md) | [Link](https://youtu.be/FT0xHVDfIpY)
 | Wednesday, April 23, 2025 @ 12:00 PM ET |  | 
 | Wednesday, May 21, 2025 @ 12:00 PM ET |  | 
 | Wednesday, June 18, 2025 @ 12:00 PM ET |  | 
