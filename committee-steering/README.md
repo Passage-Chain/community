@@ -27,7 +27,7 @@ Meetings are public and open for anyone to attend and listen-in.
 | Wednesday, February 19, 2025 @ 12:00 PM ET | [Link](meetings/012-2025-02-19.md) | [Link](https://youtu.be/sGTFt81iD58)
 | Wednesday, March 19, 2025 @ 12:00 PM ET | [Link](meetings/013-2025-03-19.md) | [Link](https://youtu.be/FT0xHVDfIpY)
 | Wednesday, May 21, 2025 @ 12:00 PM ET | [Link](meetings/014-2025-05-21.md) | [Link](https://youtu.be/F4OABPqifyg)
-| Wednesday, June 18, 2025 @ 12:00 PM ET | [Link](meetings/015-2025-06-18.md) | 
+| Wednesday, June 18, 2025 @ 12:00 PM ET | [Link](meetings/015-2025-06-18.md) | [Link](https://youtu.be/aTAWY4oango)
 | Wednesday, July 23, 2025 @ 12:00 PM ET |  | 
 | Wednesday, August 20, 2025 @ 12:00 PM ET |  | 
 
