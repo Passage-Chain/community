@@ -13,21 +13,21 @@ Meetings are public and open for anyone to attend and listen-in.
 
 | Date & Time | Notes | Recording
 | --- | --- | --- |
-| Wednesday, February 21, 2024 @ 12:00 PM ET | [Link](meetings/001-2024-02-21.md) | [Link](https://youtu.be/RtPN8W5meyA?si=Xu_jMCcebrALLQle)
-| Wednesday, March 20, 2024 @ 12:00 PM ET | [Link](meetings/002-2024-03-20.md) | [Link](https://youtu.be/gPgacm4hd0U)
-| Wednesday, April 17, 2024 @ 12:00 PM ET | [Link](meetings/003-2024-04-17.md) | [Link](https://youtu.be/H8F4xgQzuJ8)
-| Wednesday, May 22, 2024 @ 12:00 PM ET | [Link](meetings/004-2024-05-22.md) | [Link](https://youtu.be/49V7qIUAT6k)
-| Wednesday, July 31, 2024 @ 12:00 PM ET | [Link](meetings/005-2024-07-31.md) | [Link](https://youtu.be/5RWyHYz94to?si=7jbQ9FXylvPQ946z)
-| Wednesday, August 21, 2024 @ 12:00 PM ET | [Link](meetings/006-2024-08-21.md)  | [Link](https://youtu.be/h9rX2L1f9lE)
-| Wednesday, September 18, 2024 @ 12:00 PM ET | [Link](meetings/007-2024-09-18.md) | [Link](https://youtu.be/0HUJ4VEOovI?si=2znENEsj031vzLfI)
-| Wednesday, October 30, 2024 @ 12:00 PM ET | [Link](meetings/008-2024-10-30.md) | [Link](https://youtu.be/KlzCZg1S7zM)
-| Wednesday, November 20, 2024 @ 12:00 PM ET | [Link](meetings/009-2024-11-20.md) | [Link](https://youtu.be/mfP19CVLqCw)
-| Wednesday, December 18, 2024 @ 12:00 PM ET | [Link](meetings/010-2024-12-18.md) | [Link](https://youtu.be/RHSwJRilNZ8?feature=shared)
-| Wednesday, January 22, 2025 @ 12:00 PM ET | [Link](meetings/011-2025-01-22.md) | [Link](https://youtu.be/8XKmKdGpJzo)
-| Wednesday, February 19, 2025 @ 12:00 PM ET | [Link](meetings/012-2025-02-19.md) | [Link](https://youtu.be/sGTFt81iD58)
-| Wednesday, March 19, 2025 @ 12:00 PM ET | [Link](meetings/013-2025-03-19.md) | [Link](https://youtu.be/FT0xHVDfIpY)
-| Wednesday, May 21, 2025 @ 12:00 PM ET | [Link](meetings/014-2025-05-21.md) | [Link](https://youtu.be/F4OABPqifyg)
-| Wednesday, June 18, 2025 @ 12:00 PM ET | [Link](meetings/015-2025-06-18.md) | [Link](https://youtu.be/aTAWY4oango)
+| Wednesday, February 21, 2024 @ 12:00 PM ET | [Link](meetings/001-2024-02-21.md) | [Link](https://youtu.be/Ymo4ahCYeFM)
+| Wednesday, March 20, 2024 @ 12:00 PM ET | [Link](meetings/002-2024-03-20.md) | [Link](https://youtu.be/x9827oeRCbc)
+| Wednesday, April 17, 2024 @ 12:00 PM ET | [Link](meetings/003-2024-04-17.md) | [Link](https://youtu.be/CXG7734HbNY)
+| Wednesday, May 22, 2024 @ 12:00 PM ET | [Link](meetings/004-2024-05-22.md) | [Link](https://youtu.be/9QQGVexsx4M)
+| Wednesday, July 31, 2024 @ 12:00 PM ET | [Link](meetings/005-2024-07-31.md) | [Link](https://youtu.be/AhTbsRzhOkQ)
+| Wednesday, August 21, 2024 @ 12:00 PM ET | [Link](meetings/006-2024-08-21.md)  | [Link](https://youtu.be/uz99K_TPjyE)
+| Wednesday, September 18, 2024 @ 12:00 PM ET | [Link](meetings/007-2024-09-18.md) | [Link](https://youtu.be/HlABiu6ZY8w)
+| Wednesday, October 30, 2024 @ 12:00 PM ET | [Link](meetings/008-2024-10-30.md) | [Link](https://youtu.be/jcU9IsgiccA)
+| Wednesday, November 20, 2024 @ 12:00 PM ET | [Link](meetings/009-2024-11-20.md) | [Link](https://youtu.be/diUi5SQ1_NY)
+| Wednesday, December 18, 2024 @ 12:00 PM ET | [Link](meetings/010-2024-12-18.md) | [Link](https://youtu.be/iZcZsZSvn1s)
+| Wednesday, January 22, 2025 @ 12:00 PM ET | [Link](meetings/011-2025-01-22.md) | [Link](https://youtu.be/wddU8nxCM1I)
+| Wednesday, February 19, 2025 @ 12:00 PM ET | [Link](meetings/012-2025-02-19.md) | [Link](https://youtu.be/OvFkUoCaNlk)
+| Wednesday, March 19, 2025 @ 12:00 PM ET | [Link](meetings/013-2025-03-19.md) | [Link](https://youtu.be/u6UMaq3-BsI)
+| Wednesday, May 21, 2025 @ 12:00 PM ET | [Link](meetings/014-2025-05-21.md) | [Link](https://youtu.be/DBFnQQ8zv2Q)
+| Wednesday, June 18, 2025 @ 12:00 PM ET | [Link](meetings/015-2025-06-18.md) | [Link](https://youtu.be/Xk4h4p0A8R8)
 | Wednesday, July 23, 2025 @ 12:00 PM ET |  | 
 | Wednesday, August 20, 2025 @ 12:00 PM ET |  | 
 
